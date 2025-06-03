@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'dart:math';
 
 class ATM {
   double bakiye = 1000.0;
